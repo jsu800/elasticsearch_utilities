@@ -1,5 +1,5 @@
 # ElasticSearchUtilities
-This repo contains a number of commonly used ElasticSearch applications as they apply to .NET in C#. The utilities and 
+This repo contains a number of commonly used ElasticSearch CRUDs for use with .NET and C# applications. The utilities and 
 snippets make use of NEST (http://nest.azurewebsites.net/) and Elasticsearch.Net the two official clients for ElasticSearch. 
 
 # Elastisearch.Net vs. NEST
