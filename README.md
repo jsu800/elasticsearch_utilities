@@ -14,3 +14,10 @@ Examples can be found:
 
 * http://joelabrahamsson.com/extending-aspnet-mvc-music-store-with-elasticsearch/
 * https://github.com/searchbox-io/.net-sample
+
+#Elasticsearch Re-Indexing with Zero Downtime
+Background:
+https://www.elastic.co/blog/changing-mapping-with-zero-downtime
+
+For good read - problems and solutions:
+https://blog.codecentric.de/en/2014/09/elasticsearch-zero-downtime-reindexing-problems-solutions/
