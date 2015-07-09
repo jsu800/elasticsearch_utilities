@@ -61,8 +61,8 @@ namespace ElasticSearchIndexer
             // Index name inferences. Please add to this as new type is created
             // http://nest.azurewebsites.net/nest/index-type-inference.html
             settings.MapDefaultTypeIndices(d => d
-                .Add(typeof (PhxWebData.PromotionPOCO), ElasticsearchConfigurations.IndexNamePromotions)
-                .Add(typeof (PhxWebData.DashboardPOCO), ElasticsearchConfigurations.IndexNameProfiles)
+                .Add(typeof (POCOOjbect1), ElasticsearchConfigurations.IndexNamePOCOObject1)
+                .Add(typeof (POCOObject2), ElasticsearchConfigurations.IndexNamePOCOObject2)
                 );
 
             // setting up the client for use
